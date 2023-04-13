@@ -1,17 +1,15 @@
+// C:\Users\Zuelly\AppData\Roaming\npm\node_modules - CMD, node server.js
+// Terminal - python -m http.server
+// http://localhost:8000
+
+
 async function fetchData(url) {
     const corsProxy = "http://localhost:8080/";
     try {
         const response = await fetch(corsProxy + url, {
             "credentials": "omit",
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0",
-                "Accept": "*/*",
-                "Accept-Language": "en-US,en;q=0.5",
                 "x-media-mis-token": "f98212b7dff7ab75640bab2acede3323",
-                "Sec-Fetch-Dest": "empty",
-                "Sec-Fetch-Mode": "cors",
-                "Sec-Fetch-Site": "same-site",
-                "Sec-GPC": "1"
             },
             "referrer": "https://www.afl.com.au/",
             "method": "GET",
