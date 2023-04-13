@@ -1,7 +1,6 @@
 async function fetchData(url) {
-    const corsProxy = "http://localhost:8080/";
     try {
-        const response = await fetch(corsProxy + url, {
+        const response = await fetch(url, {
             "credentials": "omit",
             "headers": {
                 "x-media-mis-token": "f98212b7dff7ab75640bab2acede3323",
