@@ -1,33 +1,37 @@
-async function fetchData(url) {
-    const corsProxy = "http://localhost:8080/";
+function downloadJSON(data, fileName = "data.json") {
+    const jsonString = JSON.stringify(data, null, 2);
+    const blob = new Blob([jsonString], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = fileName;
+    link.click();
+    URL.revokeObjectURL(url);
+}
+
+async function fetchData() {
     try {
-        const response = await fetch(corsProxy + url, {
-            "credentials": "omit",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0",
-                "Accept": "*/*",
-                "Accept-Language": "en-US,en;q=0.5",
-                "x-media-mis-token": "f98212b7dff7ab75640bab2acede3323",
-                "Sec-Fetch-Dest": "empty",
-                "Sec-Fetch-Mode": "cors",
-                "Sec-Fetch-Site": "same-site",
-                "Sec-GPC": "1"
+        const response = await fetch('/api/fetch-data');
+        const data = await response.json();
+
+        // Send the fetched data to the server for saving
+        const saveResponse = await fetch('/save-data', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
             },
-            "referrer": "https://www.afl.com.au/",
-            "method": "GET",
-            "mode": "cors"
+            body: JSON.stringify(data),
         });
-        const responseText = await response.text();
-        //console.log('Raw response text:', responseText);
-        const data = JSON.parse(responseText);
+
+        if (!saveResponse.ok) {
+            throw new Error('Error saving data on the server');
+        }
+
         return data;
     } catch (error) {
-        console.log('Not working:', error);
         console.error('Error fetching data:', error);
     }
 }
-
-
 
 function processData(jsonData, location) {
     try {
@@ -119,6 +123,7 @@ function createTable(data) {
 
 async function displayData() {
     const data = await fetchData("https://cors-anywhere.herokuapp.com/https://api.afl.com.au/cfs/afl/playerStats/match/CD_M20230140501");
+    downloadJSON(data, "afl_data.json");
     const processedHomeData = processData(data, "Home");
     const processedAwayData = processData(data, "Away");
     //console.log(processedData);
