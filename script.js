@@ -9,12 +9,23 @@ function downloadJSON(data, fileName = "data.json") {
     URL.revokeObjectURL(url);
 }
 
-async function fetchData() {
+async function fetchData(url) {
+    const corsProxy = "http://0.0.0.0:8080/";
     try {
-        const response = await fetch('/api/fetch-data');
-        const data = await response.json();
+        const response = await fetch(corsProxy + url, {
+            "credentials": "omit",
+            "headers": {
+                "x-media-mis-token": "f98212b7dff7ab75640bab2acede3323",
+            },
+            "referrer": "https://www.afl.com.au/",
+            "method": "GET",
+            "mode": "cors"
+        });
+        const responseText = await response.text();
+        const data = JSON.parse(responseText);
         return data;
     } catch (error) {
+        console.log('Not working:', error);
         console.error('Error fetching data:', error);
     }
 }
