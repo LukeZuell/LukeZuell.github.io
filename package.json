@@ -1,0 +1,14 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/server.mjs",
+  "scripts": {
+    "start": "node api/server.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^3.1.0"
+  }
+}

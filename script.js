@@ -1,3 +1,14 @@
+function downloadJSON(data, fileName = "data.json") {
+    const jsonString = JSON.stringify(data, null, 2);
+    const blob = new Blob([jsonString], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = fileName;
+    link.click();
+    URL.revokeObjectURL(url);
+}
+
 async function fetchData() {
     try {
         const response = await fetch('/api/fetch-data');
@@ -7,8 +18,6 @@ async function fetchData() {
         console.error('Error fetching data:', error);
     }
 }
-
-
 
 function processData(jsonData, location) {
     try {
@@ -100,6 +109,7 @@ function createTable(data) {
 
 async function displayData() {
     const data = await fetchData("https://cors-anywhere.herokuapp.com/https://api.afl.com.au/cfs/afl/playerStats/match/CD_M20230140501");
+    downloadJSON(data, "afl_data.json");
     const processedHomeData = processData(data, "Home");
     const processedAwayData = processData(data, "Away");
     //console.log(processedData);
