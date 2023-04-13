@@ -118,7 +118,7 @@ function createTable(data) {
 }
 
 async function displayData() {
-    const data = await fetchData("https://cors-anywhere.herokuapp.com/https://api.afl.com.au/cfs/afl/playerStats/match/CD_M20230140501");
+    const data = await fetchData("https://cors-anywhere.herokuapp.com/https://api.afl.com.au/cfs/afl/playerStats/match/CD_M20230140401");
     const processedHomeData = processData(data, "Home");
     const processedAwayData = processData(data, "Away");
     //console.log(processedData);
