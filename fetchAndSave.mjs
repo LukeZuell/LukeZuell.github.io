@@ -33,7 +33,7 @@ async function fetchData(url) {
 }
 
 export async function saveDataToFile() {
-  const url = "https://api.afl.com.au/cfs/afl/playerStats/match/CD_M20230140502";
+  const url = "https://api.afl.com.au/cfs/afl/playerStats/match/CD_M20230140503";
   const data = await fetchData(url);
   
   if (data !== null) {
