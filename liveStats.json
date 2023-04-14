@@ -1,0 +1,3640 @@
+{
+  "homeTeamPlayerStats": [
+    {
+      "player": {
+        "player": {
+          "position": "SUB",
+          "player": {
+            "playerId": "CD_I998129",
+            "playerName": {
+              "givenName": "Will",
+              "surname": "Brodie"
+            },
+            "captain": false,
+            "playerJumperNumber": 17
+          }
+        },
+        "jumperNumber": 17,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/998129.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 3,
+          "handballs": 1,
+          "disposals": 4,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 3,
+          "totalPossessions": 4,
+          "inside50s": 2,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 50,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 19,
+          "clearances": {
+            "centreClearances": 1,
+            "stoppageClearances": 0,
+            "totalClearances": 1
+          },
+          "rebound50s": 1,
+          "goalAssists": 1,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 126,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I998129",
+          "playerName": {
+            "givenName": "Will",
+            "surname": "Brodie"
+          },
+          "captain": false,
+          "playerJumperNumber": 17
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 30,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "HBFL",
+          "player": {
+            "playerId": "CD_I1006152",
+            "playerName": {
+              "givenName": "Jordan",
+              "surname": "Clark"
+            },
+            "captain": false,
+            "playerJumperNumber": 6
+          }
+        },
+        "jumperNumber": 6,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1006152.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 3,
+          "handballs": 3,
+          "disposals": 6,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 6,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 3,
+          "disposalEfficiency": 83.3,
+          "clangers": 2,
+          "freesFor": 1,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 27,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 2,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 2,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 0,
+          "metresGained": 74,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1006152",
+          "playerName": {
+            "givenName": "Jordan",
+            "surname": "Clark"
+          },
+          "captain": false,
+          "playerJumperNumber": 6
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 87,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "RK",
+          "player": {
+            "playerId": "CD_I998145",
+            "playerName": {
+              "givenName": "Sean",
+              "surname": "Darcy"
+            },
+            "captain": false,
+            "playerJumperNumber": 4
+          }
+        },
+        "jumperNumber": 4,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/998145.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 1,
+          "handballs": 7,
+          "disposals": 8,
+          "marks": 1,
+          "bounces": 0,
+          "tackles": 3,
+          "contestedPossessions": 7,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 8,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 1,
+          "hitouts": 22,
+          "onePercenters": 0,
+          "disposalEfficiency": 62.5,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 54,
+          "clearances": {
+            "centreClearances": 1,
+            "stoppageClearances": 3,
+            "totalClearances": 4
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 3,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 9,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I998145",
+          "playerName": {
+            "givenName": "Sean",
+            "surname": "Darcy"
+          },
+          "captain": false,
+          "playerJumperNumber": 4
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "WR",
+          "player": {
+            "playerId": "CD_I996580",
+            "playerName": {
+              "givenName": "Ethan",
+              "surname": "Hughes"
+            },
+            "captain": false,
+            "playerJumperNumber": 15
+          }
+        },
+        "jumperNumber": 15,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/996580.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 1,
+          "handballs": 1,
+          "disposals": 2,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 0,
+          "uncontestedPossessions": 2,
+          "totalPossessions": 2,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 100,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 13,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 0,
+          "metresGained": 13,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I996580",
+          "playerName": {
+            "givenName": "Ethan",
+            "surname": "Hughes"
+          },
+          "captain": false,
+          "playerJumperNumber": 15
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 86,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "CHF",
+          "player": {
+            "playerId": "CD_I1009399",
+            "playerName": {
+              "givenName": "Luke",
+              "surname": "Jackson"
+            },
+            "captain": false,
+            "playerJumperNumber": 9
+          }
+        },
+        "jumperNumber": 9,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1009399.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 1,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 4,
+          "handballs": 3,
+          "disposals": 7,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 3,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 7,
+          "inside50s": 1,
+          "marksInside50": 1,
+          "contestedMarks": 2,
+          "hitouts": 5,
+          "onePercenters": 3,
+          "disposalEfficiency": 85.7,
+          "clangers": 1,
+          "freesFor": 1,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 41,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 100,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 2,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 1,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 4,
+          "metresGained": 141,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1009399",
+          "playerName": {
+            "givenName": "Luke",
+            "surname": "Jackson"
+          },
+          "captain": false,
+          "playerJumperNumber": 9
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 80,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "CHB",
+          "player": {
+            "playerId": "CD_I998659",
+            "playerName": {
+              "givenName": "Luke",
+              "surname": "Ryan"
+            },
+            "captain": false,
+            "playerJumperNumber": 13
+          }
+        },
+        "jumperNumber": 13,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/998659.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 2,
+          "disposals": 7,
+          "marks": 1,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 5,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 1,
+          "hitouts": 0,
+          "onePercenters": 2,
+          "disposalEfficiency": 100,
+          "clangers": 2,
+          "freesFor": 0,
+          "freesAgainst": 2,
+          "dreamTeamPoints": 16,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 2,
+          "goalAssists": 1,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 221,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I998659",
+          "playerName": {
+            "givenName": "Luke",
+            "surname": "Ryan"
+          },
+          "captain": false,
+          "playerJumperNumber": 13
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 82,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "INT",
+          "player": {
+            "playerId": "CD_I1013611",
+            "playerName": {
+              "givenName": "Sam",
+              "surname": "Sturt"
+            },
+            "captain": false,
+            "playerJumperNumber": 1
+          }
+        },
+        "jumperNumber": 1,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1013611.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 3,
+          "handballs": 0,
+          "disposals": 3,
+          "marks": 2,
+          "bounces": 1,
+          "tackles": 1,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 2,
+          "totalPossessions": 3,
+          "inside50s": 3,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 33.3,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 19,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 1,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 143,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1013611",
+          "playerName": {
+            "givenName": "Sam",
+            "surname": "Sturt"
+          },
+          "captain": false,
+          "playerJumperNumber": 1
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 78,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "C",
+          "player": {
+            "playerId": "CD_I992059",
+            "playerName": {
+              "givenName": "Sam",
+              "surname": "Switkowski"
+            },
+            "captain": false,
+            "playerJumperNumber": 39
+          }
+        },
+        "jumperNumber": 39,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/992059.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 0,
+          "handballs": 1,
+          "disposals": 1,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 0,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 1,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 100,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 2,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 6,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I992059",
+          "playerName": {
+            "givenName": "Sam",
+            "surname": "Switkowski"
+          },
+          "captain": false,
+          "playerJumperNumber": 39
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 41,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "INT",
+          "player": {
+            "playerId": "CD_I993940",
+            "playerName": {
+              "givenName": "Corey",
+              "surname": "Wagner"
+            },
+            "captain": false,
+            "playerJumperNumber": 34
+          }
+        },
+        "jumperNumber": 34,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/993940.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 8,
+          "handballs": 0,
+          "disposals": 8,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 0,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 8,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 50,
+          "clangers": 4,
+          "freesFor": 0,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 35,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 2,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 6,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 0,
+          "metresGained": 200,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I993940",
+          "playerName": {
+            "givenName": "Corey",
+            "surname": "Wagner"
+          },
+          "captain": false,
+          "playerJumperNumber": 34
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 73,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "WL",
+          "player": {
+            "playerId": "CD_I295067",
+            "playerName": {
+              "givenName": "James",
+              "surname": "Aish"
+            },
+            "captain": false,
+            "playerJumperNumber": 11
+          }
+        },
+        "jumperNumber": 11,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/295067.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 6,
+          "disposals": 11,
+          "marks": 1,
+          "bounces": 0,
+          "tackles": 3,
+          "contestedPossessions": 4,
+          "uncontestedPossessions": 7,
+          "totalPossessions": 11,
+          "inside50s": 3,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 45.5,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 42,
+          "clearances": {
+            "centreClearances": 1,
+            "stoppageClearances": 1,
+            "totalClearances": 2
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 3,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 1,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 142,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I295067",
+          "playerName": {
+            "givenName": "James",
+            "surname": "Aish"
+          },
+          "captain": false,
+          "playerJumperNumber": 11
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "FF",
+          "player": {
+            "playerId": "CD_I1020594",
+            "playerName": {
+              "givenName": "Jye",
+              "surname": "Amiss"
+            },
+            "captain": false,
+            "playerJumperNumber": 24
+          }
+        },
+        "jumperNumber": 24,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1020594.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 1,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 3,
+          "handballs": 0,
+          "disposals": 3,
+          "marks": 3,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 3,
+          "uncontestedPossessions": 0,
+          "totalPossessions": 3,
+          "inside50s": 0,
+          "marksInside50": 1,
+          "contestedMarks": 3,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 100,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 25,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 100,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 0,
+          "tacklesInside50": 1,
+          "shotsAtGoal": 1,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 79,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1020594",
+          "playerName": {
+            "givenName": "Jye",
+            "surname": "Amiss"
+          },
+          "captain": false,
+          "playerJumperNumber": 24
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 81,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "HFFR",
+          "player": {
+            "playerId": "CD_I998180",
+            "playerName": {
+              "givenName": "Bailey",
+              "surname": "Banfield"
+            },
+            "captain": false,
+            "playerJumperNumber": 41
+          }
+        },
+        "jumperNumber": 41,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/998180.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 1,
+          "superGoals": null,
+          "kicks": 3,
+          "handballs": 4,
+          "disposals": 7,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 6,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 7,
+          "inside50s": 2,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 71.4,
+          "clangers": 1,
+          "freesFor": 1,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 19,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 1,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 76,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I998180",
+          "playerName": {
+            "givenName": "Bailey",
+            "surname": "Banfield"
+          },
+          "captain": false,
+          "playerJumperNumber": 41
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 76,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "RR",
+          "player": {
+            "playerId": "CD_I1002232",
+            "playerName": {
+              "givenName": "Andrew",
+              "surname": "Brayshaw"
+            },
+            "captain": false,
+            "playerJumperNumber": 8
+          }
+        },
+        "jumperNumber": 8,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1002232.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 4,
+          "handballs": 7,
+          "disposals": 11,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 3,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 11,
+          "inside50s": 2,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 90.9,
+          "clangers": 1,
+          "freesFor": 1,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 41,
+          "clearances": {
+            "centreClearances": 2,
+            "stoppageClearances": 1,
+            "totalClearances": 3
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 3,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 4,
+          "metresGained": 164,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1002232",
+          "playerName": {
+            "givenName": "Andrew",
+            "surname": "Brayshaw"
+          },
+          "captain": false,
+          "playerJumperNumber": 8
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 82,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "FPR",
+          "player": {
+            "playerId": "CD_I294613",
+            "playerName": {
+              "givenName": "Jaeger",
+              "surname": "O'Meara"
+            },
+            "captain": false,
+            "playerJumperNumber": 2
+          }
+        },
+        "jumperNumber": 2,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/294613.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 5,
+          "disposals": 10,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 5,
+          "uncontestedPossessions": 6,
+          "totalPossessions": 11,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 80,
+          "clangers": 2,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 29,
+          "clearances": {
+            "centreClearances": 3,
+            "stoppageClearances": 1,
+            "totalClearances": 4
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 3,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 161,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I294613",
+          "playerName": {
+            "givenName": "Jaeger",
+            "surname": "O'Meara"
+          },
+          "captain": false,
+          "playerJumperNumber": 2
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 69,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "HFFL",
+          "player": {
+            "playerId": "CD_I281007",
+            "playerName": {
+              "givenName": "Michael",
+              "surname": "Walters"
+            },
+            "captain": false,
+            "playerJumperNumber": 10
+          }
+        },
+        "jumperNumber": 10,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/281007.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 2,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 4,
+          "handballs": 3,
+          "disposals": 7,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 3,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 7,
+          "inside50s": 0,
+          "marksInside50": 2,
+          "contestedMarks": 2,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 85.7,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 36,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 2,
+          "goalAccuracy": 100,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 2,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 5,
+          "metresGained": 30,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I281007",
+          "playerName": {
+            "givenName": "Michael",
+            "surname": "Walters"
+          },
+          "captain": false,
+          "playerJumperNumber": 10
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 87,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "R",
+          "player": {
+            "playerId": "CD_I1009420",
+            "playerName": {
+              "givenName": "Caleb",
+              "surname": "Serong"
+            },
+            "captain": false,
+            "playerJumperNumber": 3
+          }
+        },
+        "jumperNumber": 3,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1009420.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 8,
+          "handballs": 8,
+          "disposals": 16,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 8,
+          "uncontestedPossessions": 6,
+          "totalPossessions": 14,
+          "inside50s": 3,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 68.8,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 44,
+          "clearances": {
+            "centreClearances": 2,
+            "stoppageClearances": 3,
+            "totalClearances": 5
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 237,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1009420",
+          "playerName": {
+            "givenName": "Caleb",
+            "surname": "Serong"
+          },
+          "captain": false,
+          "playerJumperNumber": 3
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "FPL",
+          "player": {
+            "playerId": "CD_I1000860",
+            "playerName": {
+              "givenName": "Lachie",
+              "surname": "Schultz"
+            },
+            "captain": false,
+            "playerJumperNumber": 5
+          }
+        },
+        "jumperNumber": 5,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1000860.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 2,
+          "behinds": 1,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 3,
+          "disposals": 8,
+          "marks": 4,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 9,
+          "inside50s": 0,
+          "marksInside50": 2,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 75,
+          "clangers": 1,
+          "freesFor": 1,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 55,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 66.7,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 3,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 3,
+          "metresGained": 187,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1000860",
+          "playerName": {
+            "givenName": "Lachie",
+            "surname": "Schultz"
+          },
+          "captain": false,
+          "playerJumperNumber": 5
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 84,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "BPL",
+          "player": {
+            "playerId": "CD_I997033",
+            "playerName": {
+              "givenName": "Brennan",
+              "surname": "Cox"
+            },
+            "captain": false,
+            "playerJumperNumber": 36
+          }
+        },
+        "jumperNumber": 36,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/997033.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 2,
+          "handballs": 4,
+          "disposals": 6,
+          "marks": 3,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 5,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 6,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 2,
+          "hitouts": 0,
+          "onePercenters": 3,
+          "disposalEfficiency": 100,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 23,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 6,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 26,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I997033",
+          "playerName": {
+            "givenName": "Brennan",
+            "surname": "Cox"
+          },
+          "captain": false,
+          "playerJumperNumber": 36
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 100,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "INT",
+          "player": {
+            "playerId": "CD_I999321",
+            "playerName": {
+              "givenName": "Michael",
+              "surname": "Frederick"
+            },
+            "captain": false,
+            "playerJumperNumber": 32
+          }
+        },
+        "jumperNumber": 32,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/999321.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 4,
+          "handballs": 3,
+          "disposals": 7,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 5,
+          "totalPossessions": 7,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 85.7,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 25,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 1,
+            "totalClearances": 1
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 3,
+          "metresGained": 100,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I999321",
+          "playerName": {
+            "givenName": "Michael",
+            "surname": "Frederick"
+          },
+          "captain": false,
+          "playerJumperNumber": 32
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 86,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "HBFR",
+          "player": {
+            "playerId": "CD_I1009410",
+            "playerName": {
+              "givenName": "Brandon",
+              "surname": "Walker"
+            },
+            "captain": false,
+            "playerJumperNumber": 31
+          }
+        },
+        "jumperNumber": 31,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1009410.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 6,
+          "disposals": 11,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 0,
+          "uncontestedPossessions": 11,
+          "totalPossessions": 11,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 81.8,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 33,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 113,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1009410",
+          "playerName": {
+            "givenName": "Brandon",
+            "surname": "Walker"
+          },
+          "captain": false,
+          "playerJumperNumber": 31
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 88,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "INT",
+          "player": {
+            "playerId": "CD_I1016825",
+            "playerName": {
+              "givenName": "Matthew",
+              "surname": "Johnson"
+            },
+            "captain": false,
+            "playerJumperNumber": 44
+          }
+        },
+        "jumperNumber": 44,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1016825.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 1,
+          "handballs": 7,
+          "disposals": 8,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 3,
+          "uncontestedPossessions": 6,
+          "totalPossessions": 9,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 87.5,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 22,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 1,
+            "totalClearances": 1
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 1,
+          "tacklesInside50": 1,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": -1,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1016825",
+          "playerName": {
+            "givenName": "Matthew",
+            "surname": "Johnson"
+          },
+          "captain": false,
+          "playerJumperNumber": 44
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 65,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "FB",
+          "player": {
+            "playerId": "CD_I298409",
+            "playerName": {
+              "givenName": "Alex",
+              "surname": "Pearce"
+            },
+            "captain": false,
+            "playerJumperNumber": 25
+          }
+        },
+        "jumperNumber": 25,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/298409.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 2,
+          "handballs": 2,
+          "disposals": 4,
+          "marks": 1,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 3,
+          "totalPossessions": 4,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 100,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 17,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 2,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 50,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I298409",
+          "playerName": {
+            "givenName": "Alex",
+            "surname": "Pearce"
+          },
+          "captain": false,
+          "playerJumperNumber": 25
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 92,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "BPR",
+          "player": {
+            "playerId": "CD_I1009256",
+            "playerName": {
+              "givenName": "Hayden",
+              "surname": "Young"
+            },
+            "captain": false,
+            "playerJumperNumber": 26
+          }
+        },
+        "jumperNumber": 26,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1009256.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T60",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 8,
+          "handballs": 0,
+          "disposals": 8,
+          "marks": 1,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 5,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 75,
+          "clangers": 2,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 31,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 4,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 4,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 320,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1009256",
+          "playerName": {
+            "givenName": "Hayden",
+            "surname": "Young"
+          },
+          "captain": false,
+          "playerJumperNumber": 26
+        },
+        "teamId": "CD_T60",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 77,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    }
+  ],
+  "awayTeamPlayerStats": [
+    {
+      "player": {
+        "player": {
+          "position": "HFFL",
+          "player": {
+            "playerId": "CD_I998130",
+            "playerName": {
+              "givenName": "Ben",
+              "surname": "Ainsworth"
+            },
+            "captain": false,
+            "playerJumperNumber": 9
+          }
+        },
+        "jumperNumber": 9,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/998130.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 1,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 2,
+          "disposals": 7,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 3,
+          "contestedPossessions": 3,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 7,
+          "inside50s": 1,
+          "marksInside50": 1,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 71.4,
+          "clangers": 0,
+          "freesFor": 2,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 40,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 1,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 2,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 5,
+          "metresGained": 150,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I998130",
+          "playerName": {
+            "givenName": "Ben",
+            "surname": "Ainsworth"
+          },
+          "captain": false,
+          "playerJumperNumber": 9
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 87,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "RK",
+          "player": {
+            "playerId": "CD_I1021013",
+            "playerName": {
+              "givenName": "Ned",
+              "surname": "Moyle"
+            },
+            "captain": false,
+            "playerJumperNumber": 49
+          }
+        },
+        "jumperNumber": 49,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1021013.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 1,
+          "handballs": 2,
+          "disposals": 3,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 3,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 9,
+          "onePercenters": 1,
+          "disposalEfficiency": 33.3,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 20,
+          "clearances": {
+            "centreClearances": 1,
+            "stoppageClearances": 0,
+            "totalClearances": 1
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 29,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1021013",
+          "playerName": {
+            "givenName": "Ned",
+            "surname": "Moyle"
+          },
+          "captain": false,
+          "playerJumperNumber": 49
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 76,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "HBFR",
+          "player": {
+            "playerId": "CD_I1007881",
+            "playerName": {
+              "givenName": "Wil",
+              "surname": "Powell"
+            },
+            "captain": false,
+            "playerJumperNumber": 27
+          }
+        },
+        "jumperNumber": 27,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1007881.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 2,
+          "handballs": 3,
+          "disposals": 5,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 6,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 100,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 19,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 1,
+          "goalAssists": 1,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 53,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1007881",
+          "playerName": {
+            "givenName": "Wil",
+            "surname": "Powell"
+          },
+          "captain": false,
+          "playerJumperNumber": 27
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 83,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "INT",
+          "player": {
+            "playerId": "CD_I1005986",
+            "playerName": {
+              "givenName": "Malcolm",
+              "surname": "Rosas"
+            },
+            "captain": false,
+            "playerJumperNumber": 41
+          }
+        },
+        "jumperNumber": 41,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1005986.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 2,
+          "handballs": 1,
+          "disposals": 3,
+          "marks": 1,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 2,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 66.7,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 15,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 46,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1005986",
+          "playerName": {
+            "givenName": "Malcolm",
+            "surname": "Rosas"
+          },
+          "captain": false,
+          "playerJumperNumber": 41
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 60,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "RR",
+          "player": {
+            "playerId": "CD_I1009208",
+            "playerName": {
+              "givenName": "Matt",
+              "surname": "Rowell"
+            },
+            "captain": false,
+            "playerJumperNumber": 18
+          }
+        },
+        "jumperNumber": 18,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1009208.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 2,
+          "handballs": 4,
+          "disposals": 6,
+          "marks": 1,
+          "bounces": 0,
+          "tackles": 5,
+          "contestedPossessions": 5,
+          "uncontestedPossessions": 2,
+          "totalPossessions": 7,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 100,
+          "clangers": 0,
+          "freesFor": 1,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 38,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 2,
+            "totalClearances": 2
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 2,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": -18,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1009208",
+          "playerName": {
+            "givenName": "Matt",
+            "surname": "Rowell"
+          },
+          "captain": false,
+          "playerJumperNumber": 18
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 83,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "SUB",
+          "player": {
+            "playerId": "CD_I294643",
+            "playerName": {
+              "givenName": "Alex",
+              "surname": "Sexton"
+            },
+            "captain": false,
+            "playerJumperNumber": 6
+          }
+        },
+        "jumperNumber": 6,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/294643.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 0,
+          "handballs": 0,
+          "disposals": 0,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 0,
+          "uncontestedPossessions": 0,
+          "totalPossessions": 0,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 0,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 0,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 0,
+          "metresGained": 0,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I294643",
+          "playerName": {
+            "givenName": "Alex",
+            "surname": "Sexton"
+          },
+          "captain": false,
+          "playerJumperNumber": 6
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 0,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "R",
+          "player": {
+            "playerId": "CD_I1009199",
+            "playerName": {
+              "givenName": "Noah",
+              "surname": "Anderson"
+            },
+            "captain": false,
+            "playerJumperNumber": 15
+          }
+        },
+        "jumperNumber": 15,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1009199.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 7,
+          "handballs": 5,
+          "disposals": 12,
+          "marks": 3,
+          "bounces": 1,
+          "tackles": 0,
+          "contestedPossessions": 4,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 12,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 2,
+          "disposalEfficiency": 58.3,
+          "clangers": 3,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 40,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 1,
+            "totalClearances": 1
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 192,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1009199",
+          "playerName": {
+            "givenName": "Noah",
+            "surname": "Anderson"
+          },
+          "captain": false,
+          "playerJumperNumber": 15
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 79,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "INT",
+          "player": {
+            "playerId": "CD_I1017396",
+            "playerName": {
+              "givenName": "Mac",
+              "surname": "Andrew"
+            },
+            "captain": false,
+            "playerJumperNumber": 31
+          }
+        },
+        "jumperNumber": 31,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1017396.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 4,
+          "handballs": 0,
+          "disposals": 4,
+          "marks": 3,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 0,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 4,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 3,
+          "disposalEfficiency": 100,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 21,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 2,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 114,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1017396",
+          "playerName": {
+            "givenName": "Mac",
+            "surname": "Andrew"
+          },
+          "captain": false,
+          "playerJumperNumber": 31
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 82,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "CHB",
+          "player": {
+            "playerId": "CD_I1008882",
+            "playerName": {
+              "givenName": "Charlie",
+              "surname": "Ballard"
+            },
+            "captain": false,
+            "playerJumperNumber": 10
+          }
+        },
+        "jumperNumber": 10,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1008882.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 4,
+          "handballs": 0,
+          "disposals": 4,
+          "marks": 4,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 3,
+          "totalPossessions": 4,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 1,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 100,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 28,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 0,
+          "metresGained": 118,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1008882",
+          "playerName": {
+            "givenName": "Charlie",
+            "surname": "Ballard"
+          },
+          "captain": false,
+          "playerJumperNumber": 10
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "CHF",
+          "player": {
+            "playerId": "CD_I994077",
+            "playerName": {
+              "givenName": "Mabior",
+              "surname": "Chol"
+            },
+            "captain": false,
+            "playerJumperNumber": 1
+          }
+        },
+        "jumperNumber": 1,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/994077.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 1,
+          "behinds": 1,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 1,
+          "disposals": 6,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 3,
+          "totalPossessions": 5,
+          "inside50s": 0,
+          "marksInside50": 2,
+          "contestedMarks": 0,
+          "hitouts": 4,
+          "onePercenters": 0,
+          "disposalEfficiency": 33.3,
+          "clangers": 2,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 38,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 1,
+            "totalClearances": 1
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 50,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 2,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 79,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I994077",
+          "playerName": {
+            "givenName": "Mabior",
+            "surname": "Chol"
+          },
+          "captain": false,
+          "playerJumperNumber": 1
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 76,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "FB",
+          "player": {
+            "playerId": "CD_I295446",
+            "playerName": {
+              "givenName": "Sam",
+              "surname": "Collins"
+            },
+            "captain": false,
+            "playerJumperNumber": 25
+          }
+        },
+        "jumperNumber": 25,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/295446.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 1,
+          "disposals": 6,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 5,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 6,
+          "disposalEfficiency": 83.3,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 23,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 4,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 27,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I295446",
+          "playerName": {
+            "givenName": "Sam",
+            "surname": "Collins"
+          },
+          "captain": false,
+          "playerJumperNumber": 25
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 100,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "INT",
+          "player": {
+            "playerId": "CD_I293713",
+            "playerName": {
+              "givenName": "Brandon",
+              "surname": "Ellis"
+            },
+            "captain": false,
+            "playerJumperNumber": 4
+          }
+        },
+        "jumperNumber": 4,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/293713.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 8,
+          "handballs": 3,
+          "disposals": 11,
+          "marks": 3,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 9,
+          "totalPossessions": 11,
+          "inside50s": 2,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 81.8,
+          "clangers": 0,
+          "freesFor": 1,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 48,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 3,
+          "tacklesInside50": 1,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 4,
+          "metresGained": 156,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I293713",
+          "playerName": {
+            "givenName": "Brandon",
+            "surname": "Ellis"
+          },
+          "captain": false,
+          "playerJumperNumber": 4
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 79,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "INT",
+          "player": {
+            "playerId": "CD_I993799",
+            "playerName": {
+              "givenName": "Brayden",
+              "surname": "Fiorini"
+            },
+            "captain": false,
+            "playerJumperNumber": 8
+          }
+        },
+        "jumperNumber": 8,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/993799.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 1,
+          "behinds": 1,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 6,
+          "disposals": 11,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 4,
+          "contestedPossessions": 4,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 12,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 63.6,
+          "clangers": 3,
+          "freesFor": 1,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 48,
+          "clearances": {
+            "centreClearances": 3,
+            "stoppageClearances": 1,
+            "totalClearances": 4
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 50,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 3,
+          "intercepts": 0,
+          "tacklesInside50": 1,
+          "shotsAtGoal": 2,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 99,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I993799",
+          "playerName": {
+            "givenName": "Brayden",
+            "surname": "Fiorini"
+          },
+          "captain": false,
+          "playerJumperNumber": 8
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "FPL",
+          "player": {
+            "playerId": "CD_I297456",
+            "playerName": {
+              "givenName": "Nick",
+              "surname": "Holman"
+            },
+            "captain": false,
+            "playerJumperNumber": 7
+          }
+        },
+        "jumperNumber": 7,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/297456.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 1,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 6,
+          "handballs": 2,
+          "disposals": 8,
+          "marks": 3,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 6,
+          "uncontestedPossessions": 3,
+          "totalPossessions": 9,
+          "inside50s": 0,
+          "marksInside50": 1,
+          "contestedMarks": 1,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 87.5,
+          "clangers": 0,
+          "freesFor": 1,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 42,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 100,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 2,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 1,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 5,
+          "metresGained": 131,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I297456",
+          "playerName": {
+            "givenName": "Nick",
+            "surname": "Holman"
+          },
+          "captain": false,
+          "playerJumperNumber": 7
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 83,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "HFFR",
+          "player": {
+            "playerId": "CD_I1023500",
+            "playerName": {
+              "givenName": "Bailey",
+              "surname": "Humphrey"
+            },
+            "captain": false,
+            "playerJumperNumber": 19
+          }
+        },
+        "jumperNumber": 19,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1023500.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 1,
+          "behinds": 1,
+          "superGoals": null,
+          "kicks": 4,
+          "handballs": 0,
+          "disposals": 4,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 3,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 4,
+          "inside50s": 0,
+          "marksInside50": 2,
+          "contestedMarks": 1,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 75,
+          "clangers": 1,
+          "freesFor": 1,
+          "freesAgainst": 1,
+          "dreamTeamPoints": 23,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 1,
+          "goalAccuracy": 50,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 2,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 3,
+          "metresGained": 80,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1023500",
+          "playerName": {
+            "givenName": "Bailey",
+            "surname": "Humphrey"
+          },
+          "captain": false,
+          "playerJumperNumber": 19
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 76,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "FF",
+          "player": {
+            "playerId": "CD_I1006144",
+            "playerName": {
+              "givenName": "Ben",
+              "surname": "King"
+            },
+            "captain": false,
+            "playerJumperNumber": 34
+          }
+        },
+        "jumperNumber": 34,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1006144.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 1,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 3,
+          "handballs": 0,
+          "disposals": 3,
+          "marks": 2,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 3,
+          "inside50s": 1,
+          "marksInside50": 1,
+          "contestedMarks": 1,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 66.7,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 21,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 100,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 1,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 51,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1006144",
+          "playerName": {
+            "givenName": "Ben",
+            "surname": "King"
+          },
+          "captain": false,
+          "playerJumperNumber": 34
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 84,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "BPL",
+          "player": {
+            "playerId": "CD_I294013",
+            "playerName": {
+              "givenName": "Sean",
+              "surname": "Lemmens"
+            },
+            "captain": false,
+            "playerJumperNumber": 23
+          }
+        },
+        "jumperNumber": 23,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/294013.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 0,
+          "handballs": 2,
+          "disposals": 2,
+          "marks": 0,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 1,
+          "uncontestedPossessions": 1,
+          "totalPossessions": 2,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 50,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 8,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 1,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 1,
+          "metresGained": 14,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I294013",
+          "playerName": {
+            "givenName": "Sean",
+            "surname": "Lemmens"
+          },
+          "captain": false,
+          "playerJumperNumber": 23
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 71,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "HBFL",
+          "player": {
+            "playerId": "CD_I993917",
+            "playerName": {
+              "givenName": "Ben",
+              "surname": "Long"
+            },
+            "captain": false,
+            "playerJumperNumber": 22
+          }
+        },
+        "jumperNumber": 22,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/993917.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 5,
+          "handballs": 1,
+          "disposals": 6,
+          "marks": 3,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 4,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 8,
+          "inside50s": 0,
+          "marksInside50": 0,
+          "contestedMarks": 1,
+          "hitouts": 0,
+          "onePercenters": 2,
+          "disposalEfficiency": 66.7,
+          "clangers": 3,
+          "freesFor": 0,
+          "freesAgainst": 2,
+          "dreamTeamPoints": 28,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 1,
+            "totalClearances": 1
+          },
+          "rebound50s": 2,
+          "goalAssists": 1,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 4,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 3,
+          "metresGained": 182,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I993917",
+          "playerName": {
+            "givenName": "Ben",
+            "surname": "Long"
+          },
+          "captain": false,
+          "playerJumperNumber": 22
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 80,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "FPR",
+          "player": {
+            "playerId": "CD_I290832",
+            "playerName": {
+              "givenName": "David",
+              "surname": "Swallow"
+            },
+            "captain": false,
+            "playerJumperNumber": 24
+          }
+        },
+        "jumperNumber": 24,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/290832.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 3,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 8,
+          "handballs": 2,
+          "disposals": 10,
+          "marks": 6,
+          "bounces": 0,
+          "tackles": 2,
+          "contestedPossessions": 5,
+          "uncontestedPossessions": 5,
+          "totalPossessions": 10,
+          "inside50s": 3,
+          "marksInside50": 3,
+          "contestedMarks": 2,
+          "hitouts": 0,
+          "onePercenters": 1,
+          "disposalEfficiency": 80,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 72,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 2,
+            "totalClearances": 2
+          },
+          "rebound50s": 0,
+          "goalAssists": 0,
+          "goalAccuracy": 100,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 1,
+          "intercepts": 0,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 3,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 5,
+          "metresGained": 166,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I290832",
+          "playerName": {
+            "givenName": "David",
+            "surname": "Swallow"
+          },
+          "captain": false,
+          "playerJumperNumber": 24
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 72,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "WL",
+          "player": {
+            "playerId": "CD_I298524",
+            "playerName": {
+              "givenName": "Lachie",
+              "surname": "Weller"
+            },
+            "captain": false,
+            "playerJumperNumber": 14
+          }
+        },
+        "jumperNumber": 14,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/298524.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 7,
+          "handballs": 1,
+          "disposals": 8,
+          "marks": 3,
+          "bounces": 0,
+          "tackles": 1,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 5,
+          "totalPossessions": 7,
+          "inside50s": 1,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 100,
+          "clangers": 0,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 36,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 0,
+          "intercepts": 2,
+          "tacklesInside50": 1,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 4,
+          "metresGained": 159,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I298524",
+          "playerName": {
+            "givenName": "Lachie",
+            "surname": "Weller"
+          },
+          "captain": false,
+          "playerJumperNumber": 14
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 82,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "BPR",
+          "player": {
+            "playerId": "CD_I996464",
+            "playerName": {
+              "givenName": "Darcy",
+              "surname": "Macpherson"
+            },
+            "captain": false,
+            "playerJumperNumber": 44
+          }
+        },
+        "jumperNumber": 44,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/996464.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 10,
+          "handballs": 2,
+          "disposals": 12,
+          "marks": 6,
+          "bounces": 1,
+          "tackles": 2,
+          "contestedPossessions": 4,
+          "uncontestedPossessions": 5,
+          "totalPossessions": 9,
+          "inside50s": 2,
+          "marksInside50": 0,
+          "contestedMarks": 2,
+          "hitouts": 0,
+          "onePercenters": 0,
+          "disposalEfficiency": 83.3,
+          "clangers": 2,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 60,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 3,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 4,
+          "intercepts": 8,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 2,
+          "metresGained": 242,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I996464",
+          "playerName": {
+            "givenName": "Darcy",
+            "surname": "Macpherson"
+          },
+          "captain": false,
+          "playerJumperNumber": 44
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 100,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "C",
+          "player": {
+            "playerId": "CD_I298272",
+            "playerName": {
+              "givenName": "Touk",
+              "surname": "Miller"
+            },
+            "captain": false,
+            "playerJumperNumber": 11
+          }
+        },
+        "jumperNumber": 11,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/298272.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 0,
+          "behinds": 0,
+          "superGoals": null,
+          "kicks": 9,
+          "handballs": 4,
+          "disposals": 13,
+          "marks": 1,
+          "bounces": 0,
+          "tackles": 4,
+          "contestedPossessions": 6,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 14,
+          "inside50s": 3,
+          "marksInside50": 0,
+          "contestedMarks": 0,
+          "hitouts": 0,
+          "onePercenters": 2,
+          "disposalEfficiency": 76.9,
+          "clangers": 0,
+          "freesFor": 1,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 55,
+          "clearances": {
+            "centreClearances": 1,
+            "stoppageClearances": 4,
+            "totalClearances": 5
+          },
+          "rebound50s": 1,
+          "goalAssists": 0,
+          "goalAccuracy": 0,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 1,
+          "tacklesInside50": 1,
+          "shotsAtGoal": 0,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 5,
+          "metresGained": 212,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I298272",
+          "playerName": {
+            "givenName": "Touk",
+            "surname": "Miller"
+          },
+          "captain": false,
+          "playerJumperNumber": 11
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 92,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    },
+    {
+      "player": {
+        "player": {
+          "position": "WR",
+          "player": {
+            "playerId": "CD_I1004095",
+            "playerName": {
+              "givenName": "Jack",
+              "surname": "Lukosius"
+            },
+            "captain": false,
+            "playerJumperNumber": 13
+          }
+        },
+        "jumperNumber": 13,
+        "photoURL": "https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFL/2023014/1004095.png?im=Scale,width=0.6,height=0.6"
+      },
+      "teamId": "CD_T1000",
+      "playerStats": {
+        "stats": {
+          "goals": 1,
+          "behinds": 3,
+          "superGoals": null,
+          "kicks": 13,
+          "handballs": 1,
+          "disposals": 14,
+          "marks": 10,
+          "bounces": 0,
+          "tackles": 0,
+          "contestedPossessions": 4,
+          "uncontestedPossessions": 11,
+          "totalPossessions": 15,
+          "inside50s": 9,
+          "marksInside50": 1,
+          "contestedMarks": 1,
+          "hitouts": 0,
+          "onePercenters": 2,
+          "disposalEfficiency": 71.4,
+          "clangers": 1,
+          "freesFor": 0,
+          "freesAgainst": 0,
+          "dreamTeamPoints": 80,
+          "clearances": {
+            "centreClearances": 0,
+            "stoppageClearances": 0,
+            "totalClearances": 0
+          },
+          "rebound50s": 1,
+          "goalAssists": 3,
+          "goalAccuracy": 25,
+          "ratingPoints": null,
+          "ranking": null,
+          "lastUpdated": null,
+          "turnovers": 2,
+          "intercepts": 2,
+          "tacklesInside50": 0,
+          "shotsAtGoal": 4,
+          "goalEfficiency": null,
+          "shotEfficiency": null,
+          "interchangeCounts": null,
+          "scoreInvolvements": 11,
+          "metresGained": 558,
+          "extendedStats": null
+        },
+        "player": {
+          "playerId": "CD_I1004095",
+          "playerName": {
+            "givenName": "Jack",
+            "surname": "Lukosius"
+          },
+          "captain": false,
+          "playerJumperNumber": 13
+        },
+        "teamId": "CD_T1000",
+        "gamesPlayed": null,
+        "timeOnGroundPercentage": 84,
+        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+      }
+    }
+  ]
+}

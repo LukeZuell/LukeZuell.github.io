@@ -1,30 +1,45 @@
-// C:\Users\Zuelly\AppData\Roaming\npm\node_modules - CMD, node server.js
+// C:\Users\Zuelly\AppData\Roaming\npm\node_modules\cors-anywhere - CMD, node server.js
 // Terminal - python -m http.server
 // http://localhost:8000
 
 
+// async function fetchData(url) {
+//     const corsProxy = "http://localhost:8080/";
+//     try {
+//         const response = await fetch(corsProxy + url, {
+//             "credentials": "omit",
+//             "headers": {
+//                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0",
+//                 "Accept": "*/*",
+//                 "Accept-Language": "en-US,en;q=0.5",
+//                 "x-media-mis-token": "7a8c86af8cf077d45f26eb9d2176664a",
+//                 "Sec-Fetch-Dest": "empty",
+//                 "Sec-Fetch-Mode": "cors",
+//                 "Sec-Fetch-Site": "same-site",
+//                 "Sec-GPC": "1"
+//             },
+//             "referrer": "https://www.afl.com.au/",
+//             "method": "GET",
+//             "mode": "cors"
+//         });
+//         const responseText = await response.text();
+//         //console.log('Raw response text:', responseText);
+//         const data = JSON.parse(responseText);
+//         return data;
+//     } catch (error) {
+//         console.log('Not working:', error);
+//         console.error('Error fetching data:', error);
+//     }
+// }
+
 async function fetchData(url) {
-    const corsProxy = "http://localhost:8080/";
     try {
-        const response = await fetch(corsProxy + url, {
-            "credentials": "omit",
+        const response = await fetch(url, {
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0",
-                "Accept": "*/*",
-                "Accept-Language": "en-US,en;q=0.5",
-                "x-media-mis-token": "7a8c86af8cf077d45f26eb9d2176664a",
-                "Sec-Fetch-Dest": "empty",
-                "Sec-Fetch-Mode": "cors",
-                "Sec-Fetch-Site": "same-site",
-                "Sec-GPC": "1"
-            },
-            "referrer": "https://www.afl.com.au/",
-            "method": "GET",
-            "mode": "cors"
+                "Content-Type": "application/json"
+            }
         });
-        const responseText = await response.text();
-        //console.log('Raw response text:', responseText);
-        const data = JSON.parse(responseText);
+        const data = await response.json();
         return data;
     } catch (error) {
         console.log('Not working:', error);
@@ -123,7 +138,8 @@ function createTable(data) {
 }
 
 async function displayData() {
-    const data = await fetchData("https://cors-anywhere.herokuapp.com/https://api.afl.com.au/cfs/afl/matchInterchange/CD_M20230140502");
+    //const data = await fetchData("https://cors-anywhere.herokuapp.com/https://api.afl.com.au/cfs/afl/playerStats/match/CD_M20230140502");
+    const data = await fetchData("liveStats.json");
     const processedHomeData = processData(data, "Home");
     const processedAwayData = processData(data, "Away");
     //console.log(processedData);
