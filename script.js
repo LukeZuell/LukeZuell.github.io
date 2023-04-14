@@ -1,5 +1,9 @@
 // C:\Users\Zuelly\AppData\Roaming\npm\node_modules\cors-anywhere - CMD, node server.js
 // Terminal - python -m http.server
+
+// streamlit run app.py --server.headless=true
+
+
 // http://localhost:8000
 
 
