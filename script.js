@@ -9,7 +9,14 @@ async function fetchData(url) {
         const response = await fetch(corsProxy + url, {
             "credentials": "omit",
             "headers": {
-                "x-media-mis-token": "f98212b7dff7ab75640bab2acede3323",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0",
+                "Accept": "*/*",
+                "Accept-Language": "en-US,en;q=0.5",
+                "x-media-mis-token": "7a8c86af8cf077d45f26eb9d2176664a",
+                "Sec-Fetch-Dest": "empty",
+                "Sec-Fetch-Mode": "cors",
+                "Sec-Fetch-Site": "same-site",
+                "Sec-GPC": "1"
             },
             "referrer": "https://www.afl.com.au/",
             "method": "GET",
