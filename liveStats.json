@@ -61,7 +61,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 1,
-          "metresGained": 126,
+          "metresGained": 127,
           "extendedStats": null
         },
         "player": {
@@ -75,8 +75,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 30,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 27,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -140,7 +140,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 0,
-          "metresGained": 74,
+          "metresGained": 76,
           "extendedStats": null
         },
         "player": {
@@ -154,8 +154,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 87,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 80,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -181,29 +181,29 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 1,
-          "handballs": 7,
-          "disposals": 8,
+          "kicks": 3,
+          "handballs": 8,
+          "disposals": 11,
           "marks": 1,
           "bounces": 0,
           "tackles": 3,
-          "contestedPossessions": 7,
-          "uncontestedPossessions": 1,
-          "totalPossessions": 8,
-          "inside50s": 1,
+          "contestedPossessions": 9,
+          "uncontestedPossessions": 2,
+          "totalPossessions": 11,
+          "inside50s": 2,
           "marksInside50": 0,
           "contestedMarks": 1,
-          "hitouts": 22,
+          "hitouts": 24,
           "onePercenters": 0,
-          "disposalEfficiency": 62.5,
+          "disposalEfficiency": 63.6,
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 54,
+          "dreamTeamPoints": 64,
           "clearances": {
             "centreClearances": 1,
-            "stoppageClearances": 3,
-            "totalClearances": 4
+            "stoppageClearances": 5,
+            "totalClearances": 6
           },
           "rebound50s": 0,
           "goalAssists": 0,
@@ -211,7 +211,7 @@
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
-          "turnovers": 1,
+          "turnovers": 2,
           "intercepts": 3,
           "tacklesInside50": 0,
           "shotsAtGoal": 0,
@@ -219,7 +219,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 2,
-          "metresGained": 9,
+          "metresGained": 84,
           "extendedStats": null
         },
         "player": {
@@ -233,8 +233,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 85,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 86,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -265,7 +265,7 @@
           "disposals": 2,
           "marks": 0,
           "bounces": 0,
-          "tackles": 2,
+          "tackles": 3,
           "contestedPossessions": 0,
           "uncontestedPossessions": 2,
           "totalPossessions": 2,
@@ -273,12 +273,12 @@
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
-          "onePercenters": 0,
+          "onePercenters": 1,
           "disposalEfficiency": 100,
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 13,
+          "dreamTeamPoints": 17,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -312,8 +312,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 86,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 87,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -336,28 +336,28 @@
       "teamId": "CD_T60",
       "playerStats": {
         "stats": {
-          "goals": 1,
+          "goals": 2,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 4,
-          "handballs": 3,
-          "disposals": 7,
-          "marks": 2,
+          "kicks": 5,
+          "handballs": 4,
+          "disposals": 9,
+          "marks": 3,
           "bounces": 0,
           "tackles": 2,
-          "contestedPossessions": 3,
-          "uncontestedPossessions": 4,
-          "totalPossessions": 7,
+          "contestedPossessions": 4,
+          "uncontestedPossessions": 5,
+          "totalPossessions": 9,
           "inside50s": 1,
-          "marksInside50": 1,
+          "marksInside50": 2,
           "contestedMarks": 2,
           "hitouts": 5,
-          "onePercenters": 3,
-          "disposalEfficiency": 85.7,
+          "onePercenters": 4,
+          "disposalEfficiency": 88.9,
           "clangers": 1,
           "freesFor": 1,
           "freesAgainst": 1,
-          "dreamTeamPoints": 41,
+          "dreamTeamPoints": 55,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -370,14 +370,14 @@
           "ranking": null,
           "lastUpdated": null,
           "turnovers": 0,
-          "intercepts": 2,
+          "intercepts": 3,
           "tacklesInside50": 0,
-          "shotsAtGoal": 1,
+          "shotsAtGoal": 2,
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
-          "scoreInvolvements": 4,
-          "metresGained": 141,
+          "scoreInvolvements": 5,
+          "metresGained": 187,
           "extendedStats": null
         },
         "player": {
@@ -391,8 +391,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 80,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 82,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -418,25 +418,25 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 5,
+          "kicks": 7,
           "handballs": 2,
-          "disposals": 7,
-          "marks": 1,
+          "disposals": 9,
+          "marks": 2,
           "bounces": 0,
           "tackles": 0,
-          "contestedPossessions": 1,
-          "uncontestedPossessions": 4,
-          "totalPossessions": 5,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 5,
+          "totalPossessions": 7,
           "inside50s": 1,
           "marksInside50": 0,
           "contestedMarks": 1,
           "hitouts": 0,
           "onePercenters": 2,
-          "disposalEfficiency": 100,
-          "clangers": 2,
+          "disposalEfficiency": 88.9,
+          "clangers": 3,
           "freesFor": 0,
           "freesAgainst": 2,
-          "dreamTeamPoints": 16,
+          "dreamTeamPoints": 25,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -448,15 +448,15 @@
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
-          "turnovers": 2,
-          "intercepts": 1,
+          "turnovers": 3,
+          "intercepts": 3,
           "tacklesInside50": 0,
           "shotsAtGoal": 0,
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
-          "scoreInvolvements": 1,
-          "metresGained": 221,
+          "scoreInvolvements": 2,
+          "metresGained": 259,
           "extendedStats": null
         },
         "player": {
@@ -470,8 +470,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 82,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 84,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -502,7 +502,7 @@
           "disposals": 3,
           "marks": 2,
           "bounces": 1,
-          "tackles": 1,
+          "tackles": 2,
           "contestedPossessions": 1,
           "uncontestedPossessions": 2,
           "totalPossessions": 3,
@@ -515,7 +515,7 @@
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 19,
+          "dreamTeamPoints": 23,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -549,8 +549,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 78,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 80,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -628,8 +628,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 41,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 37,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -655,25 +655,25 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 8,
+          "kicks": 9,
           "handballs": 0,
-          "disposals": 8,
+          "disposals": 9,
           "marks": 2,
           "bounces": 0,
           "tackles": 2,
-          "contestedPossessions": 0,
+          "contestedPossessions": 1,
           "uncontestedPossessions": 8,
-          "totalPossessions": 8,
+          "totalPossessions": 9,
           "inside50s": 1,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 50,
-          "clangers": 4,
+          "disposalEfficiency": 44.4,
+          "clangers": 5,
           "freesFor": 0,
           "freesAgainst": 1,
-          "dreamTeamPoints": 35,
+          "dreamTeamPoints": 38,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -685,15 +685,15 @@
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
-          "turnovers": 6,
-          "intercepts": 1,
+          "turnovers": 7,
+          "intercepts": 2,
           "tacklesInside50": 0,
           "shotsAtGoal": 0,
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 0,
-          "metresGained": 200,
+          "metresGained": 223,
           "extendedStats": null
         },
         "player": {
@@ -707,8 +707,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 73,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 75,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -734,25 +734,25 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 5,
-          "handballs": 6,
-          "disposals": 11,
+          "kicks": 6,
+          "handballs": 7,
+          "disposals": 13,
           "marks": 1,
           "bounces": 0,
           "tackles": 3,
           "contestedPossessions": 4,
-          "uncontestedPossessions": 7,
-          "totalPossessions": 11,
-          "inside50s": 3,
+          "uncontestedPossessions": 9,
+          "totalPossessions": 13,
+          "inside50s": 4,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 45.5,
+          "disposalEfficiency": 53.8,
           "clangers": 1,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 42,
+          "dreamTeamPoints": 47,
           "clearances": {
             "centreClearances": 1,
             "stoppageClearances": 1,
@@ -764,7 +764,7 @@
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
-          "turnovers": 3,
+          "turnovers": 4,
           "intercepts": 0,
           "tacklesInside50": 0,
           "shotsAtGoal": 1,
@@ -772,7 +772,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 1,
-          "metresGained": 142,
+          "metresGained": 208,
           "extendedStats": null
         },
         "player": {
@@ -786,8 +786,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 85,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 86,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -865,8 +865,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 81,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 74,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -892,25 +892,25 @@
           "goals": 0,
           "behinds": 1,
           "superGoals": null,
-          "kicks": 3,
+          "kicks": 5,
           "handballs": 4,
-          "disposals": 7,
-          "marks": 0,
+          "disposals": 9,
+          "marks": 1,
           "bounces": 0,
           "tackles": 0,
-          "contestedPossessions": 6,
-          "uncontestedPossessions": 1,
-          "totalPossessions": 7,
+          "contestedPossessions": 7,
+          "uncontestedPossessions": 2,
+          "totalPossessions": 9,
           "inside50s": 2,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 71.4,
+          "disposalEfficiency": 66.7,
           "clangers": 1,
           "freesFor": 1,
           "freesAgainst": 0,
-          "dreamTeamPoints": 19,
+          "dreamTeamPoints": 28,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -930,7 +930,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 2,
-          "metresGained": 76,
+          "metresGained": 89,
           "extendedStats": null
         },
         "player": {
@@ -944,8 +944,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 76,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 78,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -971,29 +971,29 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 4,
-          "handballs": 7,
-          "disposals": 11,
+          "kicks": 5,
+          "handballs": 8,
+          "disposals": 13,
           "marks": 2,
           "bounces": 0,
           "tackles": 2,
-          "contestedPossessions": 3,
-          "uncontestedPossessions": 8,
-          "totalPossessions": 11,
+          "contestedPossessions": 4,
+          "uncontestedPossessions": 9,
+          "totalPossessions": 13,
           "inside50s": 2,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 90.9,
+          "disposalEfficiency": 92.3,
           "clangers": 1,
           "freesFor": 1,
           "freesAgainst": 0,
-          "dreamTeamPoints": 41,
+          "dreamTeamPoints": 46,
           "clearances": {
             "centreClearances": 2,
-            "stoppageClearances": 1,
-            "totalClearances": 3
+            "stoppageClearances": 2,
+            "totalClearances": 4
           },
           "rebound50s": 1,
           "goalAssists": 0,
@@ -1009,7 +1009,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 4,
-          "metresGained": 164,
+          "metresGained": 206,
           "extendedStats": null
         },
         "player": {
@@ -1023,8 +1023,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 82,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 84,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1050,29 +1050,29 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 5,
-          "handballs": 5,
-          "disposals": 10,
+          "kicks": 6,
+          "handballs": 6,
+          "disposals": 12,
           "marks": 0,
           "bounces": 0,
           "tackles": 1,
-          "contestedPossessions": 5,
-          "uncontestedPossessions": 6,
-          "totalPossessions": 11,
+          "contestedPossessions": 6,
+          "uncontestedPossessions": 7,
+          "totalPossessions": 13,
           "inside50s": 1,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 80,
+          "disposalEfficiency": 83.3,
           "clangers": 2,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 29,
+          "dreamTeamPoints": 34,
           "clearances": {
             "centreClearances": 3,
-            "stoppageClearances": 1,
-            "totalClearances": 4
+            "stoppageClearances": 2,
+            "totalClearances": 5
           },
           "rebound50s": 1,
           "goalAssists": 0,
@@ -1088,7 +1088,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 2,
-          "metresGained": 161,
+          "metresGained": 155,
           "extendedStats": null
         },
         "player": {
@@ -1102,8 +1102,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 69,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 71,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1127,27 +1127,27 @@
       "playerStats": {
         "stats": {
           "goals": 2,
-          "behinds": 0,
+          "behinds": 1,
           "superGoals": null,
-          "kicks": 4,
+          "kicks": 5,
           "handballs": 3,
-          "disposals": 7,
+          "disposals": 8,
           "marks": 2,
           "bounces": 0,
           "tackles": 0,
           "contestedPossessions": 3,
-          "uncontestedPossessions": 4,
-          "totalPossessions": 7,
+          "uncontestedPossessions": 5,
+          "totalPossessions": 8,
           "inside50s": 0,
           "marksInside50": 2,
           "contestedMarks": 2,
           "hitouts": 0,
           "onePercenters": 0,
-          "disposalEfficiency": 85.7,
+          "disposalEfficiency": 75,
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 36,
+          "dreamTeamPoints": 40,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -1155,19 +1155,19 @@
           },
           "rebound50s": 0,
           "goalAssists": 2,
-          "goalAccuracy": 100,
+          "goalAccuracy": 66.7,
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
           "turnovers": 0,
           "intercepts": 1,
           "tacklesInside50": 0,
-          "shotsAtGoal": 2,
+          "shotsAtGoal": 3,
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
-          "scoreInvolvements": 5,
-          "metresGained": 30,
+          "scoreInvolvements": 6,
+          "metresGained": 44,
           "extendedStats": null
         },
         "player": {
@@ -1181,8 +1181,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 87,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 88,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1208,25 +1208,25 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 8,
-          "handballs": 8,
-          "disposals": 16,
+          "kicks": 9,
+          "handballs": 9,
+          "disposals": 18,
           "marks": 0,
           "bounces": 0,
-          "tackles": 1,
+          "tackles": 3,
           "contestedPossessions": 8,
-          "uncontestedPossessions": 6,
-          "totalPossessions": 14,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 16,
           "inside50s": 3,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 68.8,
+          "disposalEfficiency": 72.2,
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 44,
+          "dreamTeamPoints": 57,
           "clearances": {
             "centreClearances": 2,
             "stoppageClearances": 3,
@@ -1246,7 +1246,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 1,
-          "metresGained": 237,
+          "metresGained": 242,
           "extendedStats": null
         },
         "player": {
@@ -1260,8 +1260,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 85,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 86,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1288,28 +1288,28 @@
           "behinds": 1,
           "superGoals": null,
           "kicks": 5,
-          "handballs": 3,
-          "disposals": 8,
+          "handballs": 4,
+          "disposals": 9,
           "marks": 4,
           "bounces": 0,
           "tackles": 2,
-          "contestedPossessions": 1,
+          "contestedPossessions": 2,
           "uncontestedPossessions": 8,
-          "totalPossessions": 9,
+          "totalPossessions": 10,
           "inside50s": 0,
           "marksInside50": 2,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 0,
-          "disposalEfficiency": 75,
+          "disposalEfficiency": 77.8,
           "clangers": 1,
           "freesFor": 1,
           "freesAgainst": 0,
-          "dreamTeamPoints": 55,
+          "dreamTeamPoints": 57,
           "clearances": {
             "centreClearances": 0,
-            "stoppageClearances": 0,
-            "totalClearances": 0
+            "stoppageClearances": 1,
+            "totalClearances": 1
           },
           "rebound50s": 1,
           "goalAssists": 0,
@@ -1324,8 +1324,8 @@
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
-          "scoreInvolvements": 3,
-          "metresGained": 187,
+          "scoreInvolvements": 4,
+          "metresGained": 179,
           "extendedStats": null
         },
         "player": {
@@ -1339,8 +1339,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 84,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1367,14 +1367,14 @@
           "behinds": 0,
           "superGoals": null,
           "kicks": 2,
-          "handballs": 4,
-          "disposals": 6,
+          "handballs": 5,
+          "disposals": 7,
           "marks": 3,
           "bounces": 0,
           "tackles": 0,
           "contestedPossessions": 5,
-          "uncontestedPossessions": 1,
-          "totalPossessions": 6,
+          "uncontestedPossessions": 2,
+          "totalPossessions": 7,
           "inside50s": 0,
           "marksInside50": 0,
           "contestedMarks": 2,
@@ -1384,7 +1384,7 @@
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 23,
+          "dreamTeamPoints": 25,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -1404,7 +1404,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 1,
-          "metresGained": 26,
+          "metresGained": 34,
           "extendedStats": null
         },
         "player": {
@@ -1419,7 +1419,7 @@
         "teamId": "CD_T60",
         "gamesPlayed": null,
         "timeOnGroundPercentage": 100,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1497,8 +1497,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 86,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 87,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1525,24 +1525,24 @@
           "behinds": 0,
           "superGoals": null,
           "kicks": 5,
-          "handballs": 6,
-          "disposals": 11,
+          "handballs": 7,
+          "disposals": 12,
           "marks": 2,
           "bounces": 0,
           "tackles": 0,
           "contestedPossessions": 0,
-          "uncontestedPossessions": 11,
-          "totalPossessions": 11,
+          "uncontestedPossessions": 12,
+          "totalPossessions": 12,
           "inside50s": 0,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 0,
-          "disposalEfficiency": 81.8,
+          "disposalEfficiency": 83.3,
           "clangers": 1,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 33,
+          "dreamTeamPoints": 35,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -1562,7 +1562,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 1,
-          "metresGained": 113,
+          "metresGained": 104,
           "extendedStats": null
         },
         "player": {
@@ -1576,8 +1576,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 88,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 89,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1641,7 +1641,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 2,
-          "metresGained": -1,
+          "metresGained": -8,
           "extendedStats": null
         },
         "player": {
@@ -1655,8 +1655,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 65,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 59,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1683,24 +1683,24 @@
           "behinds": 0,
           "superGoals": null,
           "kicks": 2,
-          "handballs": 2,
-          "disposals": 4,
-          "marks": 1,
+          "handballs": 3,
+          "disposals": 5,
+          "marks": 2,
           "bounces": 0,
           "tackles": 1,
           "contestedPossessions": 1,
-          "uncontestedPossessions": 3,
-          "totalPossessions": 4,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 5,
           "inside50s": 0,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
-          "onePercenters": 1,
+          "onePercenters": 2,
           "disposalEfficiency": 100,
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 17,
+          "dreamTeamPoints": 22,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -1719,8 +1719,8 @@
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
-          "scoreInvolvements": 1,
-          "metresGained": 50,
+          "scoreInvolvements": 2,
+          "metresGained": 45,
           "extendedStats": null
         },
         "player": {
@@ -1734,8 +1734,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 92,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 93,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1761,32 +1761,32 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 8,
+          "kicks": 12,
           "handballs": 0,
-          "disposals": 8,
-          "marks": 1,
+          "disposals": 12,
+          "marks": 2,
           "bounces": 0,
-          "tackles": 1,
+          "tackles": 2,
           "contestedPossessions": 1,
-          "uncontestedPossessions": 4,
-          "totalPossessions": 5,
-          "inside50s": 0,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 9,
+          "inside50s": 1,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 75,
+          "disposalEfficiency": 83.3,
           "clangers": 2,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 31,
+          "dreamTeamPoints": 50,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
             "totalClearances": 0
           },
-          "rebound50s": 4,
-          "goalAssists": 0,
+          "rebound50s": 5,
+          "goalAssists": 1,
           "goalAccuracy": 0,
           "ratingPoints": null,
           "ranking": null,
@@ -1798,8 +1798,8 @@
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
-          "scoreInvolvements": 1,
-          "metresGained": 320,
+          "scoreInvolvements": 2,
+          "metresGained": 418,
           "extendedStats": null
         },
         "player": {
@@ -1813,8 +1813,8 @@
         },
         "teamId": "CD_T60",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 77,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 79,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     }
   ],
@@ -1843,24 +1843,24 @@
           "behinds": 1,
           "superGoals": null,
           "kicks": 5,
-          "handballs": 2,
-          "disposals": 7,
+          "handballs": 3,
+          "disposals": 8,
           "marks": 2,
           "bounces": 0,
           "tackles": 3,
           "contestedPossessions": 3,
-          "uncontestedPossessions": 4,
-          "totalPossessions": 7,
+          "uncontestedPossessions": 5,
+          "totalPossessions": 8,
           "inside50s": 1,
           "marksInside50": 1,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 0,
-          "disposalEfficiency": 71.4,
-          "clangers": 0,
+          "disposalEfficiency": 62.5,
+          "clangers": 1,
           "freesFor": 2,
           "freesAgainst": 0,
-          "dreamTeamPoints": 40,
+          "dreamTeamPoints": 42,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -1880,7 +1880,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 5,
-          "metresGained": 150,
+          "metresGained": 147,
           "extendedStats": null
         },
         "player": {
@@ -1894,8 +1894,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 87,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 88,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -1933,13 +1933,13 @@
           "inside50s": 0,
           "marksInside50": 0,
           "contestedMarks": 0,
-          "hitouts": 9,
+          "hitouts": 11,
           "onePercenters": 1,
           "disposalEfficiency": 33.3,
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 20,
+          "dreamTeamPoints": 22,
           "clearances": {
             "centreClearances": 1,
             "stoppageClearances": 0,
@@ -1973,8 +1973,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 76,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 79,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2001,14 +2001,14 @@
           "behinds": 0,
           "superGoals": null,
           "kicks": 2,
-          "handballs": 3,
-          "disposals": 5,
+          "handballs": 4,
+          "disposals": 6,
           "marks": 2,
           "bounces": 0,
           "tackles": 1,
-          "contestedPossessions": 2,
+          "contestedPossessions": 3,
           "uncontestedPossessions": 4,
-          "totalPossessions": 6,
+          "totalPossessions": 7,
           "inside50s": 0,
           "marksInside50": 0,
           "contestedMarks": 0,
@@ -2018,7 +2018,7 @@
           "clangers": 1,
           "freesFor": 0,
           "freesAgainst": 1,
-          "dreamTeamPoints": 19,
+          "dreamTeamPoints": 21,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -2038,7 +2038,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 1,
-          "metresGained": 53,
+          "metresGained": 59,
           "extendedStats": null
         },
         "player": {
@@ -2052,8 +2052,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 83,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2131,8 +2131,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 60,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 63,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2163,7 +2163,7 @@
           "disposals": 6,
           "marks": 1,
           "bounces": 0,
-          "tackles": 5,
+          "tackles": 6,
           "contestedPossessions": 5,
           "uncontestedPossessions": 2,
           "totalPossessions": 7,
@@ -2176,7 +2176,7 @@
           "clangers": 0,
           "freesFor": 1,
           "freesAgainst": 0,
-          "dreamTeamPoints": 38,
+          "dreamTeamPoints": 42,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 2,
@@ -2210,8 +2210,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 83,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2290,7 +2290,7 @@
         "teamId": "CD_T1000",
         "gamesPlayed": null,
         "timeOnGroundPercentage": 0,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2316,29 +2316,29 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 7,
+          "kicks": 8,
           "handballs": 5,
-          "disposals": 12,
+          "disposals": 13,
           "marks": 3,
           "bounces": 1,
           "tackles": 0,
-          "contestedPossessions": 4,
+          "contestedPossessions": 5,
           "uncontestedPossessions": 8,
-          "totalPossessions": 12,
+          "totalPossessions": 13,
           "inside50s": 0,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 2,
-          "disposalEfficiency": 58.3,
+          "disposalEfficiency": 53.8,
           "clangers": 3,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 40,
+          "dreamTeamPoints": 43,
           "clearances": {
-            "centreClearances": 0,
+            "centreClearances": 1,
             "stoppageClearances": 1,
-            "totalClearances": 1
+            "totalClearances": 2
           },
           "rebound50s": 0,
           "goalAssists": 0,
@@ -2346,7 +2346,7 @@
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
-          "turnovers": 2,
+          "turnovers": 3,
           "intercepts": 1,
           "tacklesInside50": 0,
           "shotsAtGoal": 0,
@@ -2354,7 +2354,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 2,
-          "metresGained": 192,
+          "metresGained": 224,
           "extendedStats": null
         },
         "player": {
@@ -2368,8 +2368,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 79,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 81,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2433,7 +2433,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 1,
-          "metresGained": 114,
+          "metresGained": 118,
           "extendedStats": null
         },
         "player": {
@@ -2447,8 +2447,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 82,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 75,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2474,25 +2474,25 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 4,
+          "kicks": 6,
           "handballs": 0,
-          "disposals": 4,
-          "marks": 4,
+          "disposals": 6,
+          "marks": 6,
           "bounces": 0,
           "tackles": 1,
-          "contestedPossessions": 1,
-          "uncontestedPossessions": 3,
-          "totalPossessions": 4,
+          "contestedPossessions": 2,
+          "uncontestedPossessions": 4,
+          "totalPossessions": 6,
           "inside50s": 1,
           "marksInside50": 0,
-          "contestedMarks": 1,
+          "contestedMarks": 2,
           "hitouts": 0,
-          "onePercenters": 1,
+          "onePercenters": 2,
           "disposalEfficiency": 100,
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 28,
+          "dreamTeamPoints": 40,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -2505,14 +2505,14 @@
           "ranking": null,
           "lastUpdated": null,
           "turnovers": 1,
-          "intercepts": 1,
+          "intercepts": 2,
           "tacklesInside50": 0,
           "shotsAtGoal": 0,
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 0,
-          "metresGained": 118,
+          "metresGained": 124,
           "extendedStats": null
         },
         "player": {
@@ -2526,8 +2526,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 85,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 87,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2605,8 +2605,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 76,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 78,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2685,7 +2685,7 @@
         "teamId": "CD_T1000",
         "gamesPlayed": null,
         "timeOnGroundPercentage": 100,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2763,8 +2763,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 79,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 72,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2842,8 +2842,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 85,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 77,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -2870,24 +2870,24 @@
           "behinds": 0,
           "superGoals": null,
           "kicks": 6,
-          "handballs": 2,
-          "disposals": 8,
+          "handballs": 3,
+          "disposals": 9,
           "marks": 3,
           "bounces": 0,
           "tackles": 1,
-          "contestedPossessions": 6,
+          "contestedPossessions": 7,
           "uncontestedPossessions": 3,
-          "totalPossessions": 9,
+          "totalPossessions": 10,
           "inside50s": 0,
           "marksInside50": 1,
           "contestedMarks": 1,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 87.5,
-          "clangers": 0,
+          "disposalEfficiency": 88.9,
+          "clangers": 1,
           "freesFor": 1,
           "freesAgainst": 0,
-          "dreamTeamPoints": 42,
+          "dreamTeamPoints": 44,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -2899,7 +2899,7 @@
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
-          "turnovers": 1,
+          "turnovers": 2,
           "intercepts": 2,
           "tacklesInside50": 0,
           "shotsAtGoal": 1,
@@ -2907,7 +2907,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 5,
-          "metresGained": 131,
+          "metresGained": 134,
           "extendedStats": null
         },
         "player": {
@@ -2921,8 +2921,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 83,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3000,8 +3000,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 76,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 69,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3079,8 +3079,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 84,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 86,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3106,37 +3106,37 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 0,
+          "kicks": 2,
           "handballs": 2,
-          "disposals": 2,
-          "marks": 0,
+          "disposals": 4,
+          "marks": 2,
           "bounces": 0,
           "tackles": 1,
           "contestedPossessions": 1,
-          "uncontestedPossessions": 1,
-          "totalPossessions": 2,
+          "uncontestedPossessions": 3,
+          "totalPossessions": 4,
           "inside50s": 0,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 50,
+          "disposalEfficiency": 75,
           "clangers": 1,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 8,
+          "dreamTeamPoints": 20,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
             "totalClearances": 0
           },
-          "rebound50s": 1,
+          "rebound50s": 3,
           "goalAssists": 0,
           "goalAccuracy": 0,
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
-          "turnovers": 0,
+          "turnovers": 1,
           "intercepts": 1,
           "tacklesInside50": 0,
           "shotsAtGoal": 0,
@@ -3144,7 +3144,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 1,
-          "metresGained": 14,
+          "metresGained": 97,
           "extendedStats": null
         },
         "player": {
@@ -3158,8 +3158,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 71,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 74,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3190,7 +3190,7 @@
           "disposals": 6,
           "marks": 3,
           "bounces": 0,
-          "tackles": 2,
+          "tackles": 3,
           "contestedPossessions": 4,
           "uncontestedPossessions": 4,
           "totalPossessions": 8,
@@ -3203,7 +3203,7 @@
           "clangers": 3,
           "freesFor": 0,
           "freesAgainst": 2,
-          "dreamTeamPoints": 28,
+          "dreamTeamPoints": 32,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 1,
@@ -3237,8 +3237,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 80,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 82,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3264,25 +3264,25 @@
           "goals": 3,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 8,
+          "kicks": 11,
           "handballs": 2,
-          "disposals": 10,
-          "marks": 6,
+          "disposals": 13,
+          "marks": 8,
           "bounces": 0,
-          "tackles": 2,
-          "contestedPossessions": 5,
-          "uncontestedPossessions": 5,
-          "totalPossessions": 10,
+          "tackles": 3,
+          "contestedPossessions": 6,
+          "uncontestedPossessions": 8,
+          "totalPossessions": 14,
           "inside50s": 3,
           "marksInside50": 3,
           "contestedMarks": 2,
           "hitouts": 0,
           "onePercenters": 1,
-          "disposalEfficiency": 80,
+          "disposalEfficiency": 76.9,
           "clangers": 1,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 72,
+          "dreamTeamPoints": 91,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 2,
@@ -3295,14 +3295,14 @@
           "ranking": null,
           "lastUpdated": null,
           "turnovers": 1,
-          "intercepts": 0,
+          "intercepts": 2,
           "tacklesInside50": 0,
           "shotsAtGoal": 3,
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 5,
-          "metresGained": 166,
+          "metresGained": 193,
           "extendedStats": null
         },
         "player": {
@@ -3316,8 +3316,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 72,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 75,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3343,9 +3343,9 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 7,
+          "kicks": 8,
           "handballs": 1,
-          "disposals": 8,
+          "disposals": 9,
           "marks": 3,
           "bounces": 0,
           "tackles": 1,
@@ -3361,7 +3361,7 @@
           "clangers": 0,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 36,
+          "dreamTeamPoints": 39,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -3381,7 +3381,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 4,
-          "metresGained": 159,
+          "metresGained": 173,
           "extendedStats": null
         },
         "player": {
@@ -3395,8 +3395,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 82,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 83,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3422,25 +3422,25 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 10,
+          "kicks": 12,
           "handballs": 2,
-          "disposals": 12,
-          "marks": 6,
+          "disposals": 14,
+          "marks": 8,
           "bounces": 1,
           "tackles": 2,
           "contestedPossessions": 4,
-          "uncontestedPossessions": 5,
-          "totalPossessions": 9,
+          "uncontestedPossessions": 7,
+          "totalPossessions": 11,
           "inside50s": 2,
           "marksInside50": 0,
           "contestedMarks": 2,
           "hitouts": 0,
           "onePercenters": 0,
-          "disposalEfficiency": 83.3,
+          "disposalEfficiency": 78.6,
           "clangers": 2,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 60,
+          "dreamTeamPoints": 72,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -3453,14 +3453,14 @@
           "ranking": null,
           "lastUpdated": null,
           "turnovers": 4,
-          "intercepts": 8,
+          "intercepts": 9,
           "tacklesInside50": 0,
           "shotsAtGoal": 0,
           "goalEfficiency": null,
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 2,
-          "metresGained": 242,
+          "metresGained": 266,
           "extendedStats": null
         },
         "player": {
@@ -3475,7 +3475,7 @@
         "teamId": "CD_T1000",
         "gamesPlayed": null,
         "timeOnGroundPercentage": 100,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3501,25 +3501,25 @@
           "goals": 0,
           "behinds": 0,
           "superGoals": null,
-          "kicks": 9,
+          "kicks": 11,
           "handballs": 4,
-          "disposals": 13,
+          "disposals": 15,
           "marks": 1,
           "bounces": 0,
-          "tackles": 4,
+          "tackles": 5,
           "contestedPossessions": 6,
-          "uncontestedPossessions": 8,
-          "totalPossessions": 14,
+          "uncontestedPossessions": 9,
+          "totalPossessions": 15,
           "inside50s": 3,
           "marksInside50": 0,
           "contestedMarks": 0,
           "hitouts": 0,
           "onePercenters": 2,
-          "disposalEfficiency": 76.9,
-          "clangers": 0,
+          "disposalEfficiency": 73.3,
+          "clangers": 1,
           "freesFor": 1,
           "freesAgainst": 0,
-          "dreamTeamPoints": 55,
+          "dreamTeamPoints": 65,
           "clearances": {
             "centreClearances": 1,
             "stoppageClearances": 4,
@@ -3531,7 +3531,7 @@
           "ratingPoints": null,
           "ranking": null,
           "lastUpdated": null,
-          "turnovers": 2,
+          "turnovers": 3,
           "intercepts": 1,
           "tacklesInside50": 1,
           "shotsAtGoal": 0,
@@ -3539,7 +3539,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 5,
-          "metresGained": 212,
+          "metresGained": 262,
           "extendedStats": null
         },
         "player": {
@@ -3554,7 +3554,7 @@
         "teamId": "CD_T1000",
         "gamesPlayed": null,
         "timeOnGroundPercentage": 92,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     },
     {
@@ -3580,25 +3580,25 @@
           "goals": 1,
           "behinds": 3,
           "superGoals": null,
-          "kicks": 13,
+          "kicks": 14,
           "handballs": 1,
-          "disposals": 14,
-          "marks": 10,
+          "disposals": 15,
+          "marks": 11,
           "bounces": 0,
           "tackles": 0,
           "contestedPossessions": 4,
-          "uncontestedPossessions": 11,
-          "totalPossessions": 15,
-          "inside50s": 9,
+          "uncontestedPossessions": 12,
+          "totalPossessions": 16,
+          "inside50s": 10,
           "marksInside50": 1,
           "contestedMarks": 1,
           "hitouts": 0,
           "onePercenters": 2,
-          "disposalEfficiency": 71.4,
+          "disposalEfficiency": 73.3,
           "clangers": 1,
           "freesFor": 0,
           "freesAgainst": 0,
-          "dreamTeamPoints": 80,
+          "dreamTeamPoints": 86,
           "clearances": {
             "centreClearances": 0,
             "stoppageClearances": 0,
@@ -3618,7 +3618,7 @@
           "shotEfficiency": null,
           "interchangeCounts": null,
           "scoreInvolvements": 11,
-          "metresGained": 558,
+          "metresGained": 596,
           "extendedStats": null
         },
         "player": {
@@ -3632,8 +3632,8 @@
         },
         "teamId": "CD_T1000",
         "gamesPlayed": null,
-        "timeOnGroundPercentage": 84,
-        "lastUpdated": "2023-04-14T08:23:20.460+0000"
+        "timeOnGroundPercentage": 85,
+        "lastUpdated": "2023-04-14T08:45:40.315+0000"
       }
     }
   ]

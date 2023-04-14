@@ -1,14 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Display</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
+    <button id="fetchDataButton">Fetch and Save Data</button> <!-- Add this button -->
     <table id="table">
-    </table>      
+    </table>
     <script src="script.js"></script>
+    <script type="module">
+        import { saveDataToFile } from './fetchAndSave.mjs';
+    
+        document.getElementById('fetchDataButton').addEventListener('click', async () => {
+            await saveDataToFile();
+            setTimeout(() => {
+                location.reload();
+            }, 10000); // Refresh the page after 10 seconds (10000 milliseconds)
+        });
+    </script>
+    
 </body>
+
 </html>
