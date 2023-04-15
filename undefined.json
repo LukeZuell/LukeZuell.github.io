@@ -1,0 +1,11 @@
+{
+  "code": "CFSAPI001",
+  "date": "2023-04-15T11:58:25.858+0000",
+  "host": "mis-stats-779bb69677-ghtf7",
+  "mdc": "@K4Vk@",
+  "path": "/afl/playerStats/match/CD_M202301405undefined",
+  "status": 400,
+  "techMessage": "Invalid match id",
+  "userMessage": "Your request could not be processed due to a technical problem. Code: CFSAPI001",
+  "version": "1.0.188"
+}
