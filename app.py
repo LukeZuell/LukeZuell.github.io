@@ -37,14 +37,20 @@ def getPlayerData(teamStatus):
             player['playerStats']['stats']['contestedPossessions'],
             player['playerStats']['stats']['clearances']['totalClearances'],
             player['playerStats']['stats']['clangers'],
-            "{:.0f}".format(round(player['playerStats']['stats']['disposalEfficiency'], 0)),
-            "{:.0f}".format(round(player['playerStats']['timeOnGroundPercentage'], 0))]
+            player['playerStats']['stats']['disposalEfficiency'],
+            player['playerStats']['timeOnGroundPercentage']]
         #st.write(liveStatSC["id"])
         for index, col in liveStatSC.iterrows():
-            if col['first_name'] == player['player']['player']['player']['playerName']['givenName'] and col['last_name'] == player['player']['player']['player']['playerName']['surname']:
-                row.append(col['player_stats'][0]['livepts'])
+            if (((player['player']['player']['player']['playerName']['givenName'] == "Junior") and (col['last_name'] == player['player']['player']['player']['playerName']['surname']) and (col['id'] == 561)) or
+                ((player['player']['player']['player']['playerName']['givenName'] == "Lachlan") and (col['last_name'] == player['player']['player']['player']['playerName']['surname']) and (col['id'] == 96))):
+                #st.write(col['player_stats'][0]['points'])
+                row.append(col['player_stats'][0]['points'])
+            if ((col['first_name'] == player['player']['player']['player']['playerName']['givenName'] and col['last_name'] == player['player']['player']['player']['playerName']['surname'])):
+                #st.write(col['player_stats'][0]['points'])
+                row.append(col['player_stats'][0]['points'])
                 pass
-        row.append("{:.0f}".format(round(player['playerStats']['stats']['dreamTeamPoints']), 0))
+
+        row.append(player['playerStats']['stats']['dreamTeamPoints'])
         rows.append(row)
     return rows
 
@@ -67,7 +73,7 @@ teamNameDict = dict({
     'CD_T130': 'St Kilda',
     'CD_T140': 'Western Bulldogs',
     'CD_T150': 'West Coast Eagles',
-    'CD_T160': 'Sudney Swans',
+    'CD_T160': 'Sydney Swans',
     'CD_T1000' : 'Gold Coast Suns',
     'CD_T1010': 'GWS Giants'
 })

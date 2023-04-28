@@ -1,4 +1,11 @@
 {
-  "homeTeamPlayerStats": null,
-  "awayTeamPlayerStats": null
+  "code": "CFSAPI001",
+  "date": "2023-04-17T06:35:13.281+0000",
+  "host": "mis-stats-779bb69677-j8p67",
+  "mdc": "@ML1y@",
+  "path": "/afl/playerStats/match/CD_M20230140507",
+  "status": 401,
+  "techMessage": "Access to this site is forbidden",
+  "userMessage": "Access to this site is forbidden",
+  "version": "1.0.188"
 }

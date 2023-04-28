@@ -38,10 +38,10 @@ export async function saveDataToFile(lastTwoNumbers) {
   
   if (data !== null) {
     fs.writeFileSync(lastTwoNumbers + ".json", JSON.stringify(data, null, 2));
-    console.log("Data saved to liveStats.json");
+    console.log("Data saved to " + lastTwoNumbers + ".json");
   } else {
     console.log("Error: Unable to fetch data or data is invalid");
   }
 }
 
-saveDataToFile('06');
+saveDataToFile('07');
