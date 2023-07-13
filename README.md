@@ -1,5 +1,5 @@
 # AFL Scraper
-
+<meta name="google-site-verification" content="cCVdpVp9ZLFZiOOctnDoUoJ_VKI_iTXhQ0juOZhhb_I" />
 To just scrape data from AFL website to calculate Supercoach ECT
 
 ## Getting Started
