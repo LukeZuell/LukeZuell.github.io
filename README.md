@@ -10,8 +10,7 @@ This project has being worked on incrementally and I can provide support if requ
 ## Authors
 
 Contributors names:
-Luke Zuell
-
+- [Luke Zuell](https://github.com/LukeZuell)
 
 
 
